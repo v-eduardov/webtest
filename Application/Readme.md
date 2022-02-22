@@ -1,6 +1,6 @@
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| ASP.NET Core | .NET Core 3.1 | Azure Web App, Virtual Machines |
+| ASP.NET Core | .NET Core 3.1 | Azure Web App, Virtual Machines | EduardoVs |
 
 
 # ASP.NET Core MVC application
